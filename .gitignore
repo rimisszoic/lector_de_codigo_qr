@@ -1,0 +1,5 @@
+# ignorar los archivos innecesarios
+comprobar_ticket.php
+entradas.csv
+entradas.xlsx
+lector-de-entradas-inspiro-v1.zip
