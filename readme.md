@@ -1,4 +1,4 @@
-# Lector de Código QR
+# Lector de Código Q
 
 ¡Bienvenido al Lector de Código QR! Este proyecto te permite escanear códigos QR y verificar los tickets asociados de una manera rápida y sencilla.
 

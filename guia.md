@@ -1,4 +1,4 @@
-# Documentación del Escáner de Código QR
+# Documentación del Escáner de Código Q
 
 ## Uso
 
