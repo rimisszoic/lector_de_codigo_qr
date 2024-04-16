@@ -34,4 +34,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Versiones 📌
 
-- **Versión 1.0.1:** Esta versión incluye correcciones de errores menores y mejoras de rendimiento. Puedes descargarla [aquí](https://github.com/rimissgames/lector-de-entradas-inspiro/releases/tag/v1.0.1).
+- **Versión 1.0.0:** Esta versión incluye correcciones de errores menores y mejoras de rendimiento. Puedes descargarla [aquí](https://github.com/rimissgames/lector-de-entradas-inspiro/releases/tag/v1.0.0).
