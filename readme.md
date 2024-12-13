@@ -26,7 +26,7 @@
 
 Este proyecto fue desarrollado por [Noel Pérez Villanueva](https://github.com/rimissgames).
 
-![Perfil de Bootstrap](https://github.com/rimissgames.png)
+![Perfil de GitHub](https://github.com/rimisszoic.png)
 
 ## Licencia 📄
 
@@ -34,4 +34,4 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 ## Versiones 📌
 
-- **Versión 1.0.0:** Esta versión incluye correcciones de errores menores y mejoras de rendimiento. Puedes descargarla [aquí](https://github.com/rimissgames/lector_de_codigo_qr/releases/tag/v1.0.0).
+- **Versión 1.0.0:** Esta versión incluye correcciones de errores menores y mejoras de rendimiento. Puedes descargarla [aquí](https://github.com/rimisszoic/lector_de_codigo_qr/releases/tag/v1.0.0).
